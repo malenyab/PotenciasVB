@@ -1,0 +1,10 @@
+c:\users\malen\documents\visual studio 2012\Projects\potenciasVB\potenciasVB\bin\Debug\potenciasVB.exe.config
+c:\users\malen\documents\visual studio 2012\Projects\potenciasVB\potenciasVB\bin\Debug\potenciasVB.exe
+c:\users\malen\documents\visual studio 2012\Projects\potenciasVB\potenciasVB\bin\Debug\potenciasVB.pdb
+c:\users\malen\documents\visual studio 2012\Projects\potenciasVB\potenciasVB\bin\Debug\potenciasVB.xml
+c:\users\malen\documents\visual studio 2012\Projects\potenciasVB\potenciasVB\obj\Debug\potenciasVB.Form1.resources
+c:\users\malen\documents\visual studio 2012\Projects\potenciasVB\potenciasVB\obj\Debug\potenciasVB.Resources.resources
+c:\users\malen\documents\visual studio 2012\Projects\potenciasVB\potenciasVB\obj\Debug\potenciasVB.vbproj.GenerateResource.Cache
+c:\users\malen\documents\visual studio 2012\Projects\potenciasVB\potenciasVB\obj\Debug\potenciasVB.exe
+c:\users\malen\documents\visual studio 2012\Projects\potenciasVB\potenciasVB\obj\Debug\potenciasVB.xml
+c:\users\malen\documents\visual studio 2012\Projects\potenciasVB\potenciasVB\obj\Debug\potenciasVB.pdb
